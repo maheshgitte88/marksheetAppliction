@@ -1,0 +1,26 @@
+{
+  "name": "mitsde",
+  "version": "1.0.0",
+  "description": "marksheet certificate mitsde ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mahesh",
+    "Gitte",
+    "and",
+    "mitsde"
+  ],
+  "author": "Mahesh Gitte only",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  }
+}
